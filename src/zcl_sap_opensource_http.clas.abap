@@ -17,7 +17,7 @@ ENDCLASS.
 
 
 
-CLASS ZCL_SAP_OPENSOURCE_HTTP IMPLEMENTATION.
+CLASS zcl_sap_opensource_http IMPLEMENTATION.
 
 
   METHOD z2ui5_if_app~main.
